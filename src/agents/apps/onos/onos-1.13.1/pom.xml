@@ -64,7 +64,7 @@
         <dependency>
             <groupId>org.onosproject</groupId>
             <artifactId>onos-cli</artifactId>
-            <version>1.11.1</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.karaf.shell</groupId>
