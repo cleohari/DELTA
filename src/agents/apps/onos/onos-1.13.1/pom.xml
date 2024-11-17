@@ -17,7 +17,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <onos.version>1.10.0</onos.version>
+        <onos.version>1.14.0</onos.version>
         <onos.app.name>org.deltaproject.appagent</onos.app.name>
         <onos.app.title>AppAgent</onos.app.title>
         <onos.app.origin>KAIST NSS</onos.app.origin>
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>org.onosproject</groupId>
             <artifactId>onos-cli</artifactId>
-            <version>1.11.1</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.karaf.shell</groupId>
